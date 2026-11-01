@@ -1,0 +1,10 @@
+scenario,status,answer,tools_used,steps,tokens
+standard_30_days,APPROVED,"APPROVED: freeze for 30 days, fee INR 200.",get_member > search_policy > check_freeze > approve_freeze,4,428
+premium_first_freeze,APPROVED,"APPROVED: freeze for 20 days, fee INR 0.",get_member > search_policy > check_freeze > approve_freeze,4,428
+premium_second_freeze,APPROVED,"APPROVED: freeze for 20 days, fee INR 200.",get_member > search_policy > check_freeze > approve_freeze,4,428
+too_short,REJECTED,REJECTED: freeze must be at least 15 days.,get_member > search_policy > check_freeze,3,298
+too_long,REJECTED,REJECTED: freeze cannot exceed 60 days in a year.,get_member > search_policy > check_freeze,3,299
+too_late,REJECTED,REJECTED: request must be made at least 3 days before billing date.,get_member > search_policy > check_freeze,3,302
+unknown_member,NOT_FOUND,NOT_FOUND: no such member.,get_member,1,44
+missing_info,NEEDS_INFO,"NEEDS_INFO: please give member id, number of days and today's date.",,0,12
+confused_agent_loop,HANDOVER_MAX_STEPS,Handing over: 5 steps used without resolving. Last tool: search_policy.,search_policy > search_policy > search_policy > search_policy > search_policy,5,1437
