@@ -1,0 +1,15 @@
+question,expected_doc,expected_fact
+What is the maximum number of days a membership can be frozen in a year?,membership_policy.txt,maximum of 60 days
+How much is the freeze fee?,membership_policy.txt,INR 200
+How many days before the billing date must a freeze be requested?,membership_policy.txt,at least 3 days
+How much notice is needed to cancel a membership?,membership_policy.txt,30 days
+What is the late fee for a failed payment?,payment_policy.txt,INR 150
+How soon is a double charge refunded?,payment_policy.txt,7 working days
+What does a day pass for guests cost?,facility_policy.txt,INR 300
+Are children below 16 allowed in the strength area?,facility_policy.txt,not allowed
+What must new members complete before the first workout?,safety_policy.txt,health questionnaire
+How soon must an incident report be filed after an injury?,safety_policy.txt,within 24 hours
+How fast must a harassment complaint reach the regional manager?,conduct_policy.txt,within 4 hours
+After how many steps must an automated assistant hand over to a human?,conduct_policy.txt,5 steps
+What is the name of the gym's mascot?,NONE,
+Which team won the football league last year?,NONE,

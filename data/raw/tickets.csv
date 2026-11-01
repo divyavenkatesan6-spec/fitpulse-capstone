@@ -1,0 +1,169 @@
+ticket_id,member_id,text,true_category
+T0122,M0608,Please pause my plan for two months because of a knee injury. Write to member122@example.com.,freeze
+T0145,M0782,My payment failed but money was deducted. Call me on 7151168356 to fix the bill.,billing
+T0113,M0185,My payment failed but money was deducted. Call me on 6469234110 to fix the bill.,billing
+T0080,M0041,"I feel unsafe because another member keeps following me and staring at me. Member M0041, email member80@example.com.",harassment
+T0100,M0142,"I feel unsafe because another member keeps following me and staring at me. Member M0142, email member100@example.com.",harassment
+T0034,M0919,"I need to freeze my membership, I am moving abroad temporarily. Call 6045089873.",freeze
+T0039,M0641,The treadmill near the entrance is broken and the screen is dead. Please fix it. member39@example.com,equipment
+T0165,M0607,The equipment is broken. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet.,equipment
+T0093,M0047,The invoice shows the wrong plan fee for member M0047. Contact member93@example.com.,billing
+T0133,M0572,I was charged twice for M0572 this month. Please refund the extra amount. Email me at member133@example.com.,billing
+T0057,M0262,I was charged twice for M0262 this month. Please refund the extra amount. Email me at member57@example.com.,billing
+T0092,M0175,There was an abusive argument in the changing room and I was threatened. Contact member92@example.com.,harassment
+T0024,M0156,A trainer made inappropriate comments to me during my session. This is harassment. Call 8256169633.,harassment
+T0013,M0868,My payment failed but money was deducted. Call me on 6704006480 to fix the bill.,billing
+T0021,M0701,The invoice shows the wrong plan fee for member M0701. Contact member21@example.com.,billing
+T0012,M0941,"I feel unsafe because another member keeps following me and staring at me. Member M0941, email member12@example.com.",harassment
+T0038,M0080,Please pause my plan for two months because of a knee injury. Write to member38@example.com.,freeze
+T0151,M0448,The shower in the men's locker room has no hot water. Member M0448.,equipment
+T0155,M0425,The treadmill near the entrance is broken and the screen is dead. Please fix it. member155@example.com,equipment
+T0005,M0697,My payment failed but money was deducted. Call me on 6311975199 to fix the bill.,billing
+T0067,M0299,The shower in the men's locker room has no hot water. Member M0299.,equipment
+T0008,M0555,There was an abusive argument in the changing room and I was threatened. Contact member8@example.com.,harassment
+T0150,M0481,Please pause my plan for two months because of a knee injury. Write to member150@example.com.,freeze
+T0047,M0032,The shower in the men's locker room has no hot water. Member M0032.,equipment
+T0136,M0149,A trainer made inappropriate comments to me during my session. This is harassment. Call 9022810673.,harassment
+T0117,M0535,The invoice shows the wrong plan fee for member M0535. Contact member117@example.com.,billing
+T0081,M0069,I was charged twice for M0069 this month. Please refund the extra amount. Email me at member81@example.com.,billing
+T0079,M0656,The shower in the men's locker room has no hot water. Member M0656.,equipment
+T0156,M0573,"I feel unsafe because another member keeps following me and staring at me. Member M0573, email member156@example.com.",harassment
+T0139,M0477,Two cable machines in the strength area are out of order and the AC is not working. Call 7029839533.,equipment
+T0110,M0413,Please pause my plan for two months because of a knee injury. Write to member110@example.com.,freeze
+T0007,M0185,The treadmill near the entrance is broken and the screen is dead. Please fix it. member7@example.com,equipment
+T0161,M0045,,none
+T0003,M0405,The shower in the men's locker room has no hot water. Member M0405.,equipment
+T0061,M0183,The invoice shows the wrong plan fee for member M0183. Contact member61@example.com.,billing
+T0018,M0445,I am travelling for work and want to freeze my membership for 30 days. Member M0445. Call 8497228602.,freeze
+T0107,M0398,The shower in the men's locker room has no hot water. Member M0398.,equipment
+T0060,M0809,A trainer made inappropriate comments to me during my session. This is harassment. Call 9386022983.,harassment
+T0108,M0372,"I feel unsafe because another member keeps following me and staring at me. Member M0372, email member108@example.com.",harassment
+T0095,M0650,The shower in the men's locker room has no hot water. Member M0650.,equipment
+T0020,M0791,"I feel unsafe because another member keeps following me and staring at me. Member M0791, email member20@example.com.",harassment
+T0084,M0950,"I feel unsafe because another member keeps following me and staring at me. Member M0950, email member84@example.com.",harassment
+T0030,M0113,"I need to freeze my membership, I am moving abroad temporarily. Call 8353068578.",freeze
+T0044,M0128,A trainer made inappropriate comments to me during my session. This is harassment. Call 7947036152.,harassment
+T0163,M0231,,none
+T0132,M0478,"I feel unsafe because another member keeps following me and staring at me. Member M0478, email member132@example.com.",harassment
+T0033,M0404,I was charged twice for M0404 this month. Please refund the extra amount. Email me at member33@example.com.,billing
+T0162,M0768,,none
+T0022,M0677,Please pause my plan for two months because of a knee injury. Write to member22@example.com.,freeze
+T0041,M0129,The invoice shows the wrong plan fee for member M0129. Contact member41@example.com.,billing
+T0131,M0329,Two cable machines in the strength area are out of order and the AC is not working. Call 8944056601.,equipment
+T0009,M0278,My payment failed but money was deducted. Call me on 7353315612 to fix the bill.,billing
+T0097,M0784,The invoice shows the wrong plan fee for member M0784. Contact member97@example.com.,billing
+T0089,M0931,My payment failed but money was deducted. Call me on 8525704279 to fix the bill.,billing
+T0059,M0321,The treadmill near the entrance is broken and the screen is dead. Please fix it. member59@example.com,equipment
+T0118,M0310,Please pause my plan for two months because of a knee injury. Write to member118@example.com.,freeze
+T0077,M0258,My payment failed but money was deducted. Call me on 6244374488 to fix the bill.,billing
+T0154,M0058,I am travelling for work and want to freeze my membership for 30 days. Member M0058. Call 8818649903.,freeze
+T0002,M0324,"I need to freeze my membership, I am moving abroad temporarily. Call 8631609679.",freeze
+T0090,M0219,Please pause my plan for two months because of a knee injury. Write to member90@example.com.,freeze
+T0137,M0523,My payment failed but money was deducted. Call me on 7595405447 to fix the bill.,billing
+T0111,M0954,The shower in the men's locker room has no hot water. Member M0954.,equipment
+T0128,M0298,"I feel unsafe because another member keeps following me and staring at me. Member M0298, email member128@example.com.",harassment
+T0015,M0262,Two cable machines in the strength area are out of order and the AC is not working. Call 9102964594.,equipment
+T0109,M0434,My payment failed but money was deducted. Call me on 7895510901 to fix the bill.,billing
+T0160,M0479,"I feel unsafe because another member keeps following me and staring at me. Member M0479, email member160@example.com.",harassment
+T0035,M0568,Two cable machines in the strength area are out of order and the AC is not working. Call 9270371800.,equipment
+T0006,M0429,I am travelling for work and want to freeze my membership for 30 days. Member M0429. Call 6115633101.,freeze
+T0101,M0907,The invoice shows the wrong plan fee for member M0907. Contact member101@example.com.,billing
+T0086,M0034,Please pause my plan for two months because of a knee injury. Write to member86@example.com.,freeze
+T0040,M0623,A trainer made inappropriate comments to me during my session. This is harassment. Call 6273357921.,harassment
+T0166,M0378,The equipment is broken. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet.,equipment
+T0071,M0656,The treadmill near the entrance is broken and the screen is dead. Please fix it. member71@example.com,equipment
+T0120,M0052,"I feel unsafe because another member keeps following me and staring at me. Member M0052, email member120@example.com.",harassment
+T0076,M0492,A trainer made inappropriate comments to me during my session. This is harassment. Call 6410986686.,harassment
+T0124,M0542,"I feel unsafe because another member keeps following me and staring at me. Member M0542, email member124@example.com.",harassment
+T0103,M0914,Two cable machines in the strength area are out of order and the AC is not working. Call 6412690574.,equipment
+T0134,M0996,Please pause my plan for two months because of a knee injury. Write to member134@example.com.,freeze
+T0017,M0273,I was charged twice for M0273 this month. Please refund the extra amount. Email me at member17@example.com.,billing
+T0078,M0750,Please pause my plan for two months because of a knee injury. Write to member78@example.com.,freeze
+T0063,M0095,Two cable machines in the strength area are out of order and the AC is not working. Call 7539139262.,equipment
+T0083,M0017,The shower in the men's locker room has no hot water. Member M0017.,equipment
+T0114,M0592,"I need to freeze my membership, I am moving abroad temporarily. Call 6335699928.",freeze
+T0052,M0698,"I feel unsafe because another member keeps following me and staring at me. Member M0698, email member52@example.com.",harassment
+T0129,M0434,I was charged twice for M0434 this month. Please refund the extra amount. Email me at member129@example.com.,billing
+T0094,M0386,Please pause my plan for two months because of a knee injury. Write to member94@example.com.,freeze
+T0098,M0457,I am travelling for work and want to freeze my membership for 30 days. Member M0457. Call 6753582660.,freeze
+T0147,M0748,The treadmill near the entrance is broken and the screen is dead. Please fix it. member147@example.com,equipment
+T0152,M0232,There was an abusive argument in the changing room and I was threatened. Contact member152@example.com.,harassment
+T0142,M0338,Please pause my plan for two months because of a knee injury. Write to member142@example.com.,freeze
+T0158,M0596,Please pause my plan for two months because of a knee injury. Write to member158@example.com.,freeze
+T0073,M0031,My payment failed but money was deducted. Call me on 6958789870 to fix the bill.,billing
+T0091,M0710,Two cable machines in the strength area are out of order and the AC is not working. Call 9931471342.,equipment
+T0138,M0813,Please pause my plan for two months because of a knee injury. Write to member138@example.com.,freeze
+T0056,M0678,A trainer made inappropriate comments to me during my session. This is harassment. Call 8340558361.,harassment
+T0075,M0240,Two cable machines in the strength area are out of order and the AC is not working. Call 7452774044.,equipment
+T0070,M0006,"I need to freeze my membership, I am moving abroad temporarily. Call 7368943386.",freeze
+T0157,M0696,The invoice shows the wrong plan fee for member M0696. Contact member157@example.com.,billing
+T0054,M0852,"I need to freeze my membership, I am moving abroad temporarily. Call 8613409920.",freeze
+T0051,M0405,Two cable machines in the strength area are out of order and the AC is not working. Call 8214903292.,equipment
+T0140,M0341,A trainer made inappropriate comments to me during my session. This is harassment. Call 6847272673.,harassment
+T0029,M0706,I was charged twice for M0706 this month. Please refund the extra amount. Email me at member29@example.com.,billing
+T0053,M0052,I was charged twice for M0052 this month. Please refund the extra amount. Email me at member53@example.com.,billing
+T0019,M0065,Two cable machines in the strength area are out of order and the AC is not working. Call 7072875481.,equipment
+T0088,M0703,"I feel unsafe because another member keeps following me and staring at me. Member M0703, email member88@example.com.",harassment
+T0025,M0038,I was charged twice for M0038 this month. Please refund the extra amount. Email me at member25@example.com.,billing
+T0146,M0777,I am travelling for work and want to freeze my membership for 30 days. Member M0777. Call 8832281985.,freeze
+T0143,M0663,Two cable machines in the strength area are out of order and the AC is not working. Call 9656577295.,equipment
+T0065,M0034,I was charged twice for M0034 this month. Please refund the extra amount. Email me at member65@example.com.,billing
+T0164,M0746,,none
+T0014,M0128,"I need to freeze my membership, I am moving abroad temporarily. Call 7775625119.",freeze
+T0027,M0212,The treadmill near the entrance is broken and the screen is dead. Please fix it. member27@example.com,equipment
+T0032,M0243,A trainer made inappropriate comments to me during my session. This is harassment. Call 9758110333.,harassment
+T0144,M0026,"I feel unsafe because another member keeps following me and staring at me. Member M0026, email member144@example.com.",harassment
+T0023,M0918,Two cable machines in the strength area are out of order and the AC is not working. Call 9647286361.,equipment
+T0037,M0589,The invoice shows the wrong plan fee for member M0589. Contact member37@example.com.,billing
+T0066,M0331,Please pause my plan for two months because of a knee injury. Write to member66@example.com.,freeze
+T0121,M0580,The invoice shows the wrong plan fee for member M0580. Contact member121@example.com.,billing
+T0046,M0214,Please pause my plan for two months because of a knee injury. Write to member46@example.com.,freeze
+T0149,M0906,My payment failed but money was deducted. Call me on 6169264259 to fix the bill.,billing
+T0112,M0229,There was an abusive argument in the changing room and I was threatened. Contact member112@example.com.,harassment
+T0001,M0546,My payment failed but money was deducted. Call me on 7469899556 to fix the bill.,billing
+T0026,M0959,I am travelling for work and want to freeze my membership for 30 days. Member M0959. Call 6193936077.,freeze
+T0064,M0885,"I feel unsafe because another member keeps following me and staring at me. Member M0885, email member64@example.com.",harassment
+T0043,M0231,The treadmill near the entrance is broken and the screen is dead. Please fix it. member43@example.com,equipment
+T0010,M0117,"I need to freeze my membership, I am moving abroad temporarily. Call 7949324588.",freeze
+T0105,M0720,I was charged twice for M0720 this month. Please refund the extra amount. Email me at member105@example.com.,billing
+T0126,M0589,"I need to freeze my membership, I am moving abroad temporarily. Call 8076744791.",freeze
+T0004,M0844,There was an abusive argument in the changing room and I was threatened. Contact member4@example.com.,harassment
+T0045,M0802,My payment failed but money was deducted. Call me on 7670163964 to fix the bill.,billing
+T0069,M0178,My payment failed but money was deducted. Call me on 8095394263 to fix the bill.,billing
+T0085,M0820,I was charged twice for M0820 this month. Please refund the extra amount. Email me at member85@example.com.,billing
+T0087,M0221,Two cable machines in the strength area are out of order and the AC is not working. Call 6773248299.,equipment
+T0072,M0455,A trainer made inappropriate comments to me during my session. This is harassment. Call 7409441606.,harassment
+T0050,M0138,"I need to freeze my membership, I am moving abroad temporarily. Call 8479799803.",freeze
+T0141,M0514,I was charged twice for M0514 this month. Please refund the extra amount. Email me at member141@example.com.,billing
+T0055,M0167,The treadmill near the entrance is broken and the screen is dead. Please fix it. member55@example.com,equipment
+T0074,M0733,I am travelling for work and want to freeze my membership for 30 days. Member M0733. Call 6930523728.,freeze
+T0159,M0766,Two cable machines in the strength area are out of order and the AC is not working. Call 9502728353.,equipment
+T0048,M0269,A trainer made inappropriate comments to me during my session. This is harassment. Call 6620400070.,harassment
+T0102,M0801,Please pause my plan for two months because of a knee injury. Write to member102@example.com.,freeze
+T0127,M0635,The treadmill near the entrance is broken and the screen is dead. Please fix it. member127@example.com,equipment
+T0125,M0819,I was charged twice for M0819 this month. Please refund the extra amount. Email me at member125@example.com.,billing
+T0123,M0998,The treadmill near the entrance is broken and the screen is dead. Please fix it. member123@example.com,equipment
+T0153,M0569,I was charged twice for M0569 this month. Please refund the extra amount. Email me at member153@example.com.,billing
+T0042,M0061,I am travelling for work and want to freeze my membership for 30 days. Member M0061. Call 7211946606.,freeze
+T0099,M0358,Two cable machines in the strength area are out of order and the AC is not working. Call 7034070790.,equipment
+T0119,M0834,The shower in the men's locker room has no hot water. Member M0834.,equipment
+T0104,M0394,"I feel unsafe because another member keeps following me and staring at me. Member M0394, email member104@example.com.",harassment
+T0135,M0105,The treadmill near the entrance is broken and the screen is dead. Please fix it. member135@example.com,equipment
+T0058,M0005,I am travelling for work and want to freeze my membership for 30 days. Member M0005. Call 6947060913.,freeze
+T0036,M0648,There was an abusive argument in the changing room and I was threatened. Contact member36@example.com.,harassment
+T0031,M0232,Two cable machines in the strength area are out of order and the AC is not working. Call 7537018464.,equipment
+T0068,M0030,There was an abusive argument in the changing room and I was threatened. Contact member68@example.com.,harassment
+T0049,M0016,My payment failed but money was deducted. Call me on 8245910689 to fix the bill.,billing
+T0167,M0222,The equipment is broken. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet.,equipment
+T0168,M0335,The equipment is broken. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet. The machine is still not fixed and nobody has replied to me yet.,equipment
+T0016,M0426,A trainer made inappropriate comments to me during my session. This is harassment. Call 9086240002.,harassment
+T0011,M0401,The shower in the men's locker room has no hot water. Member M0401.,equipment
+T0106,M0707,"I need to freeze my membership, I am moving abroad temporarily. Call 9042655371.",freeze
+T0096,M0964,A trainer made inappropriate comments to me during my session. This is harassment. Call 7790708715.,harassment
+T0028,M0157,"I feel unsafe because another member keeps following me and staring at me. Member M0157, email member28@example.com.",harassment
+T0130,M0658,"I need to freeze my membership, I am moving abroad temporarily. Call 6364734433.",freeze
+T0082,M0811,Please pause my plan for two months because of a knee injury. Write to member82@example.com.,freeze
+T0062,M0379,"I need to freeze my membership, I am moving abroad temporarily. Call 6218427997.",freeze
+T0148,M0917,There was an abusive argument in the changing room and I was threatened. Contact member148@example.com.,harassment
+T0115,M0638,The shower in the men's locker room has no hot water. Member M0638.,equipment
+T0116,M0075,There was an abusive argument in the changing room and I was threatened. Contact member116@example.com.,harassment
